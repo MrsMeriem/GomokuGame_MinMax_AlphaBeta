@@ -7,17 +7,17 @@ Minimax et Alpha-Beta,et le projet inclut une interface graphique développée e
 la bibliothèque SDL.
 
 ## Technologies Utilisées  
-Langages de Programmation : C
-Bibliothèque Graphique : SDL
-IDE : Visual Studio
+- Langages de Programmation : C   
+- Bibliothèque Graphique : SDL   
+- IDE : Visual Studio   
 
 
 ## Membres:  
-EL AITA Meriem   
-BABA Salma   
-DESAUBLIAUX Arthur   
-3A FISA POLYTECH Marseille   
-2023-2024   
+- EL AITA Meriem   
+- BABA Salma   
+- DESAUBLIAUX Arthur   
+3A FISA POLYTECH Marseille  
+ 2023-2024   
    
 ## Exécution  
 Vérifier l'installation de SDL2   
