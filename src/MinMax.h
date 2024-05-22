@@ -138,7 +138,7 @@ void findBestMove() {
     printf("place-------------!\n");
     printf("%d %d\n",bestMoveRow,bestMoveCol);
     printf("-------best: %d\n",bestVal);
-    printf("Temps de calcul: %f secondes\n", cpu_time_used);
+    printf("Time : %f seconds\n", cpu_time_used);
 
     if (bestMoveRow != -1 && bestMoveCol != -1) {
         grid[bestMoveRow][bestMoveCol] = -1;
