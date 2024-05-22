@@ -53,4 +53,5 @@ Les scripts CMake (comme FindSDL2.cmake) aident à localiser ces en-têtes et bi
 quel que soit le système d'exploitation ou l'emplacement d'installation.   
 
 ## À propos du jeu   
-Si le jeu est trop lent, changez max_depth = 3
+- Si le jeu est trop lent, changez MAX_DEPTH pour ajuster la profondeur maximale de l'algorithme de recherche définie par défaut à 3 dans MinMax.h
+- Pour changer le nombre de pièces alignées nécessaires pour gagner, modifiez la constante MAX_WIN, définie par défaut à 5 dans board.h
