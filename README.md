@@ -38,7 +38,7 @@ cmake ..
 make run    
 
 ### Instructions supplémentaires pour CMake :   
-Utilisation de CMakeLists.txt :
+Utilisation de CMakeLists.txt :   
 Le fichier CMakeLists.txt est utilisé pour configurer le projet. Il génère automatiquement un Makefile,
 qui est utilisé pour compiler et lier le projet.   
 Le dossier cmake contient des scripts nécessaires pour que CMakeLists.txt puisse localiser les bibliothèques 
