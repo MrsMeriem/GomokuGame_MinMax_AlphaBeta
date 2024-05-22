@@ -4,7 +4,12 @@ GomokuGame est un projet visant à développer une intelligence artificielle (IA
 capable de jouer au jeu de stratégie Gomoku Ce jeu à deux joueurs nécessite des 
 algorithmes avancés pour déterminer les coups optimaux. Nous avons utilisé les algorithmes 
 Minimax et Alpha-Beta,et le projet inclut une interface graphique développée en C avec 
-la bibliothèque SDL.
+la bibliothèque SDL.  
+
+##  algorithmes Utilisées
+- Algorithme Minimax(cette version de projet)  
+- Optimisation de Minimax avec Alpha-Beta Pruning via le lien :  
+  https://github.com/MrsMeriem/GomokuGame_MinMax.git
 
 ## Technologies Utilisées  
 - Langages de Programmation : C   
