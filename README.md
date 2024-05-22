@@ -29,12 +29,12 @@ sudo apt-get install libsdl2-ttf-dev
 
 
 ## Pour exécuter le projet :   
-1.Supprimez tout dans le dossier build ou supprimez le dossier et recréez-le.   
-2.Accédez au dossier build :   
+1. Supprimez tout dans le dossier build ou supprimez le dossier et recréez-le.   
+2. Accédez au dossier build :   
 cd build   
-3.Construisez le projet   
+3. Construisez le projet   
 cmake ..   
-4.Exécutez le projet :   
+4. Exécutez le projet :   
 make run    
 
 ### Instructions supplémentaires pour CMake :   
