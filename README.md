@@ -1,40 +1,40 @@
 # **Introduction :**
 
-## GomokuGame   est un projet visant à développer une intelligence artificielle (IA) 
+GomokuGame est un projet visant à développer une intelligence artificielle (IA) 
 capable de jouer au jeu de stratégie Gomoku Ce jeu à deux joueurs nécessite des 
 algorithmes avancés pour déterminer les coups optimaux. Nous avons utilisé les algorithmes 
 Minimax et Alpha-Beta,et le projet inclut une interface graphique développée en C avec 
 la bibliothèque SDL.
 
-##Technologies Utilisées  
+## Technologies Utilisées  
 Langages de Programmation : C
 Bibliothèque Graphique : SDL
 IDE : Visual Studio
 
 
 ## Membres:  
-EL AITA Meriem
-BABA Salma
-DESAUBLIAUX Arthur
-3A FISA POLYTECH Marseille 
-2023-2024
-
+EL AITA Meriem   
+BABA Salma   
+DESAUBLIAUX Arthur   
+3A FISA POLYTECH Marseille   
+2023-2024   
+   
 ## Exécution  
-Vérifier l'installation de SDL2
-sudo apt-get update
-sudo apt-get install libsdl2-dev
-sudo apt-get install libsdl2-image-dev
-sudo apt-get install libsdl2-ttf-dev
+Vérifier l'installation de SDL2   
+sudo apt-get update   
+sudo apt-get install libsdl2-dev   
+sudo apt-get install libsdl2-image-dev   
+sudo apt-get install libsdl2-ttf-dev   
 
 
 ## Pour exécuter le projet :   
-1.Supprimez tout dans le dossier build ou supprimez le dossier et recréez-le.
-2.Accédez au dossier build :
-cd build
-3.Construisez le projet 
-cmake ..
-4.Exécutez le projet :
-make run
+1.Supprimez tout dans le dossier build ou supprimez le dossier et recréez-le.   
+2.Accédez au dossier build :   
+cd build   
+3.Construisez le projet   
+cmake ..   
+4.Exécutez le projet :   
+make run    
 
 ### Instructions supplémentaires pour CMake :   
 Utilisation de CMakeLists.txt :
