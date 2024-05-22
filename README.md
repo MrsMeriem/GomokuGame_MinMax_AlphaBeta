@@ -15,7 +15,7 @@ la bibliothèque SDL.
 - Langages de Programmation : C   
 - Bibliothèque Graphique : SDL   
 - IDE : Visual Studio   
-- Environnement de Développement : WSL
+- WSL
 
 ## Membres:  
 - EL AITA Meriem   
