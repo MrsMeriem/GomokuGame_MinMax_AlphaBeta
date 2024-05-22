@@ -15,9 +15,10 @@ la bibliothèque SDL.
 ## Membres:  
 - EL AITA Meriem   
 - BABA Salma   
-- DESAUBLIAUX Arthur   
+- DESAUBLIAUX Arthur  
+## Groupe:    
 3A FISA POLYTECH Marseille  
- 2023-2024   
+2023-2024   
    
 ## Exécution  
 Vérifier l'installation de SDL2   
