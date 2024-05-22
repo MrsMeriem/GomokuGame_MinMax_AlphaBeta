@@ -7,10 +7,10 @@ Minimax et Alpha-Beta,et le projet inclut une interface graphique développée e
 la bibliothèque SDL.  
 
 ##  algorithmes Utilisées
-- Algorithme Minimax(cette version de projet)  
-- Optimisation de Minimax avec Alpha-Beta Pruning via le lien :  
+- Algorithme Minimax et Alpha-Beta Pruning.
+- Tester le jeu avec l'algorithme Minimax via le lien :
   https://github.com/MrsMeriem/GomokuGame_MinMax.git
-
+  
 ## Technologies Utilisées  
 - Langages de Programmation : C   
 - Bibliothèque Graphique : SDL   
