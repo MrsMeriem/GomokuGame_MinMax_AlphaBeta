@@ -2,7 +2,7 @@
 #include "Utils/Utils.h"
 #include "Utils/MImage.h"
 #include "Utils/ArrayList.h"
-
+#define MAX_WIN 5
 Vec2f gridPos;
     //generate map_matrix from file
 int** grid;
@@ -62,7 +62,7 @@ Vec2i toRowCol(float x,float y){
 int checkDirection(int row, int col, int dRow, int dCol) {
     int player = grid[row][col];
     if (player == 0) return 0;
-    int win_count = 5;
+    int win_count = MAX_WIN;
 
     for (int i = 1; i < win_count; i++) {
         int newRow = row + i * dRow;
