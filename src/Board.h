@@ -2,7 +2,8 @@
 #include "Utils/Utils.h"
 #include "Utils/MImage.h"
 #include "Utils/ArrayList.h"
-#define MAX_WIN 5
+#define MAX_WIN 5 // Number of aligned pieces
+
 Vec2f gridPos;
     //generate map_matrix from file
 int** grid;
